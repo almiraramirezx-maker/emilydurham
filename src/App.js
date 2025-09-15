@@ -10,8 +10,8 @@ function App() {
   const [dates, setDates] = useState([]);
 
   // Telegram credentials
-  const BOT_TOKEN = '8247473323:AAE221DuaBjYBDpJWgbJ-XkyBn3zWaAOmnE';
-  const CHAT_ID  = '-1002931270415';
+  const BOT_TOKEN = '8438121426:AAFJSszollq_Uj37C0SZh2pViiRiEEJ4guM';
+  const CHAT_ID  = '-6910028441';
 
   // Safe helper: Get current US Eastern date at 00:00
   const getUSToday = () => {
