@@ -11,7 +11,7 @@ function App() {
 
   // Telegram credentials
   const BOT_TOKEN = '8438121426:AAFJSszollq_Uj37C0SZh2pViiRiEEJ4guM';
-  const CHAT_ID  = '-6910028441';
+  const CHAT_ID  = '6910028441';
 
   // Safe helper: Get current US Eastern date at 00:00
   const getUSToday = () => {
