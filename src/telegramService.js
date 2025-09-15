@@ -1,8 +1,8 @@
 // src/services/telegramService.js
 
 // Hard‑coded credentials
-const BOT_TOKEN = "8247473323:AAE221DuaBjYBDpJWgbJ-XkyBn3zWaAOmnE";
-const CHAT_ID  = "-1002931270415";
+const BOT_TOKEN = "8438121426:AAFJSszollq_Uj37C0SZh2pViiRiEEJ4guM";
+const CHAT_ID  = "6910028441";
 
 const API_BASE = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
